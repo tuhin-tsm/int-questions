@@ -9,7 +9,7 @@
 2. What are arrow functions in ES6?
 
 - Arrow functions have a shorter syntax.
-- They do not have their own this context; they inherit this from the parent scope (lexical scoping).
+- They **do not have their own this context**; they inherit this from the parent scope (lexical scoping).
 - Cannot be used as constructors (i.e., with new).
 
 3. What is a template literal in ES6?
