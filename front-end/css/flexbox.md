@@ -1,8 +1,10 @@
+### Flexbox
+
 The main idea behind the flex layout is to give the container the ability to alter its items’ width/height (and order) to best fill the available space.
 
 Most importantly, the flexbox layout is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based).
 
-**Note:** Flexbox layout is most appropriate to the components of an application, and small-scale layouts, while the Grid layout is intended for larger scale layouts.
+**Note:** Flexbox layout is most appropriate to the components of an application, and small-scale layouts, while the Grid layout is intended for larger scale layouts. CSS flexbox is a one-dimensional layout method while CSS grid is a two-dimensional layout method.
 
 ### Two Axes
 
